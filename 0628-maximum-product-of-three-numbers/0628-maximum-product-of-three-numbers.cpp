@@ -1,12 +1,17 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n = nums.size();
-        
-        int Way1 = nums[n-1] * nums[n-2] * nums[n-3];
-        int Way2 = nums[0] * nums[1] * nums[n-1];
-
-        return max(Way1,Way2);
+        int size = nums.size();
+        sort(nums.begin(), nums.end());
+        // product max (positive): CASES
+        //  +*+*+ a
+        //  +*-*- b
+        int a = nums[size - 1] * nums[size - 2] * nums[size - 3];
+        int b = nums[0] * nums[1] * nums[size - 1];
+        // if (nums[0]<0 && nums[1]<0){
+        if (b > a) {
+            return b;
+        }
+        return a;
     }
 };
