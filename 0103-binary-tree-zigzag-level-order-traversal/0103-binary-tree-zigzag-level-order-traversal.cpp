@@ -17,23 +17,19 @@ public:
             return{};
         }
 
+        bool zig = true;
         vector<vector<int>> result;
         queue<TreeNode*> q;
         q.push(root);
 
-        int level_count=0;
-
         while(!q.empty()){
             int LevelSize = q.size();
-            deque<int> CurrentLevel;
+            vector<int> CurrentLevel;
+
             for(int i=0 ; i < LevelSize ; i++){
                 TreeNode* node = q.front();
                 q.pop();
-                if(level_count %2 == 0){
-                    CurrentLevel.push_back(node->val);
-                }else{
-                    CurrentLevel.push_front(node->val);
-                }
+                CurrentLevel.push_back(node->val);
                 if(node->left != nullptr){
                     q.push(node->left);
                 }
@@ -41,9 +37,13 @@ public:
                     q.push(node->right);
                 }
             }
-            vector<int> CurrentlevelVec(CurrentLevel.begin(),CurrentLevel.end());    
-            result.push_back(CurrentlevelVec);
-            level_count++;
+            if(zig){
+                result.push_back(CurrentLevel);
+            }else{
+                reverse(CurrentLevel.begin(),CurrentLevel.end());
+                result.push_back(CurrentLevel);
+            }
+            zig = !zig;
         }
         return result;
     }
