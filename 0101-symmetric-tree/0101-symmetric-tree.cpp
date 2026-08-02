@@ -1,4 +1,3 @@
-#include <queue>
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -12,30 +11,16 @@
  */
 class Solution {
 public:
+
+    bool isMirror(TreeNode* left , TreeNode* right){
+        if(left == nullptr && right == nullptr) return true;
+        if(left == nullptr || right == nullptr) return false;
+        if(left->val != right->val) return false;
+        return isMirror(left->left,right->right) && isMirror(left->right,right->left);
+    }
+
     bool isSymmetric(TreeNode* root) {
-        queue<pair<TreeNode* , TreeNode* >> q;
-        q.push({root,root});
-        
-        while(!q.empty()){
-            auto node_pair = q.front();
-            q.pop();
-
-            TreeNode* node1 = node_pair.first;
-            TreeNode* node2 = node_pair.second;
-            
-            if(node1 == nullptr && node2 == nullptr){
-                continue;
-            }
-            if(node1 == nullptr || node2 == nullptr){
-                return false;
-            }
-            if(node1->val != node2->val){
-                return false;
-            }
-
-            q.push({node1->left , node2->right});
-            q.push({node1->right , node2->left});
-        }
-        return true;
+        if(root == nullptr) return true;
+        return isMirror(root->left,root->right);
     }
 };
