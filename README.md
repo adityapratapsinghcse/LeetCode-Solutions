@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0485-max-consecutive-ones](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
