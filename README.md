@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
@@ -120,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
