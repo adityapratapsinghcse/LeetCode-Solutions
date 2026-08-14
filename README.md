@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
