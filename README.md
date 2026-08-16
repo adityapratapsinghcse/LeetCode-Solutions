@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
