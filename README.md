@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
 |  |
