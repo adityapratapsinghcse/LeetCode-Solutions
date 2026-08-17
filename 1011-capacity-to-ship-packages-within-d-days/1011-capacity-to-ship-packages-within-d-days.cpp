@@ -23,7 +23,7 @@ private:
 public:
     int shipWithinDays(vector<int>& weights, int days) {
         int ans; //Capacity of ship
-        int start = *max_element(weights.begin(), weights.end());// Worst Case
+        int start= 1; // Worst Case
         int total=0;
         for(int i=0 ; i< weights.size() ; i++){
             total += weights[i];
@@ -31,7 +31,7 @@ public:
         int end = total; // Best case
 
         while(start <= end){
-            int mid = start + (end - start) / 2; //Assume ATMAX 'mid' capacity of ship
+            int mid = (start + end) /2 ; //Assume ATMAX 'mid' capacity of ship
 
             if(is_possible(weights, mid , days)){
                 ans = mid;
