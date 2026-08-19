@@ -3,7 +3,8 @@ public:
     int lengthOfLongestSubstring(string s) {
         int left = 0, best = 0;
 
-        unordered_map <char,int> freq(s.length());
+        vector<int> freq(256,0);
+        
         for(int right =0 ; right < s.length() ; right++){
             freq[s[right]]++;
 
