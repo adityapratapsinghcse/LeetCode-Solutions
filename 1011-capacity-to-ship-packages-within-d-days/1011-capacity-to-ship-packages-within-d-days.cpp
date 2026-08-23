@@ -1,19 +1,17 @@
 class Solution {
-private:
     bool is_possible(vector<int> &weights , int mid , int days){
-        int day = 1;
-        int ship_load = 0;
+        int day=1;
+        int ship_load =0;
 
-        for(int i=0 ; i < weights.size() ;){ //To visite and check each bag
-            if(ship_load + weights[i] <= mid){
+        for(int i=0 ; i< weights.size() ;i++){
+            if(weights[i]+ship_load <= mid){
                 ship_load += weights[i];
-                i++;
             }
             else{
                 day+=1;
-                ship_load=0;
+                ship_load =weights[i];
             }
-            // KKhya humhne dewdline cross toh nahi ki
+
             if(day > days){
                 return false;
             }
@@ -22,21 +20,25 @@ private:
     }
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int ans; //Capacity of ship
-        int start= 1; // Worst Case
         int total=0;
-        for(int i=0 ; i< weights.size() ; i++){
+        int maxi = weights[0];
+
+        for(int i =0 ; i< weights.size() ; i++){
             total += weights[i];
+            maxi = max(maxi , weights[i]);
         }
-        int end = total; // Best case
+
+        int start = maxi;
+        int end = total;
+        int ans =-1;
 
         while(start <= end){
-            int mid = (start + end) /2 ; //Assume ATMAX 'mid' capacity of ship
+            int mid= (start+end) /2;
 
-            if(is_possible(weights, mid , days)){
+            if(is_possible(weights,mid,days)){
                 ans = mid;
                 end = mid-1;
-            } 
+            }
             else{
                 start = mid+1;
             }
