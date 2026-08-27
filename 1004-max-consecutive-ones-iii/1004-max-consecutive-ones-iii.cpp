@@ -1,25 +1,22 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int i=0,j=0,max_window=-1;
-        while(j<nums.size())
-        {
-            if(nums[j] == 0)
-            {
-                k--;
+        int i =0;
+        int best = 0;
+        int count =0;
+
+        for(int j=0; j<nums.size(); j++){
+            if(nums[j] ==0){
+                count++;
             }
-            while(k == -1)
-            {
-                if(nums[i] == 0)
-                {
-                    k++;
+            while(count>k){
+                if(nums[i] == 0){
+                    count--;
                 }
                 i++;
             }
-            int current_window = (j-i+1);
-            max_window = max(current_window,max_window);
-            j++;
+            best = max(best,j-i+1);
         }
-        return max_window;
+        return best;
     }
 };
