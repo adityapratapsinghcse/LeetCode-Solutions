@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
