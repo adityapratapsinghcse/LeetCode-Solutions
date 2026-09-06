@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
