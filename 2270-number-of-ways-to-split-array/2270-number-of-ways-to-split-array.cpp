@@ -1,26 +1,23 @@
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
+        long long left_sum = nums[0];
+        long long right_sum = 0;
+        long long total = 0;
+        
+        int count = 0;
         int n = nums.size();
-        int count =0;
 
-        vector<long long> prefix(n);
-        vector<long long> suffix(n);
-
-        prefix[0] = nums[0];
-        for(int i=1 ; i < n ; i++){
-            prefix[i] = prefix[i-1] + nums[i];
+        for(int i=0 ; i< n ; i++){
+            total += nums[i];
         }
 
-        suffix[n-1] = nums[n-1];
-        for(int i=n-2; i>=0 ; i--){
-            suffix[i] = suffix[i+1] + nums[i];
-        }
-
-        for(int i=0 ; i < n-1 ; i++){
-            if(prefix[i] >= suffix[i+1]){
+        for(int i=0 ; i<n-1 ; i++){
+            right_sum = total - left_sum;
+            if(left_sum >= right_sum){
                 count+=1;
             }
+            left_sum += nums[i+1];
         }
         return count;
     }
