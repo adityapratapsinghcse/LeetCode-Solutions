@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
