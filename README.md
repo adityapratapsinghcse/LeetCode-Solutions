@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityapratapsinghcse/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
